@@ -61,7 +61,7 @@ gcc snake_game.c -o snake_game -lGL -lGLU -lglut
 ./snake_game
 ```
 
-## Screenshots
+## Screenshot
 
 ### Gameplay
 ![Snake Game Gameplay](screenshots/gameplay.png)
